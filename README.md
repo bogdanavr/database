@@ -1,0 +1,1 @@
+I developed a web interface using JSP that connects to a MySQL database, enabling users to interact directly with the data. This interface allows users to perform basic CRUD (Create, Read, Update, Delete) operations seamlessly, offering a user-friendly way to manage and manipulate the database content.
